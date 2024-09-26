@@ -1,4 +1,4 @@
-# German open access repositories that contain software records
+# German open access repositories that have records of a type that may contain software
 
 ## Setup
 
@@ -36,3 +36,5 @@ On `bash`:
 # Start the Jupyter server locally
 jupyter notebook
 ```
+
+Open the Jupyter interface and run the notebook.
