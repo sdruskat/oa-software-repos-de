@@ -22,6 +22,14 @@ $> pip install -r requirements.txt
 
 ## Run
 
+Requires:
+
+- In the directory root, a file `.env` that contains a Sherpa API key:
+
+```ini
+SHERPA_TOKEN=<Your Sherpa API key>
+```
+
 On `bash`:
 
 ```bash
