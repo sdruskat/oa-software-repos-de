@@ -24,7 +24,7 @@ $> pip install -r requirements.txt
 
 Requires:
 
-- In the directory root, a file `.env` that contains a Sherpa API key:
+- In the directory root, a file `.env` that contains a [Sherpa](https://v2.sherpa.ac.uk/api/) API key:
 
 ```ini
 SHERPA_TOKEN=<Your Sherpa API key>
